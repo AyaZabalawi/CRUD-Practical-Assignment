@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "Nkiuqgv9Q0lB/0vCp5xXDeklZ+et/EPoWdT8AaUG1sM=",
+  "Source": "StocksAppProject",
+  "BasePath": "_content/StocksAppProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StocksAppProject\\wwwroot",
+      "Source": "StocksAppProject",
+      "ContentRoot": "C:\\Users\\ThinkPadT480\\OneDrive - Mobility Eye\\Documents\\aspnetcore\\StocksAppProject\\StocksAppProject\\wwwroot\\",
+      "BasePath": "_content/StocksAppProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ThinkPadT480\\OneDrive - Mobility Eye\\Documents\\aspnetcore\\StocksAppProject\\StocksAppProject\\wwwroot\\Scripts\\FinnhubScript.js",
+      "SourceId": "StocksAppProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ThinkPadT480\\OneDrive - Mobility Eye\\Documents\\aspnetcore\\StocksAppProject\\StocksAppProject\\wwwroot\\",
+      "BasePath": "_content/StocksAppProject",
+      "RelativePath": "Scripts/FinnhubScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "C:\\Users\\ThinkPadT480\\OneDrive - Mobility Eye\\Documents\\aspnetcore\\StocksAppProject\\StocksAppProject\\wwwroot\\StyleSheet.css",
+      "SourceId": "StocksAppProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ThinkPadT480\\OneDrive - Mobility Eye\\Documents\\aspnetcore\\StocksAppProject\\StocksAppProject\\wwwroot\\",
+      "BasePath": "_content/StocksAppProject",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

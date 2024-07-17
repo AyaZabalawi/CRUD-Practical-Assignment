@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ThinkPadT480\\OneDrive - Mobility Eye\\Documents\\aspnetcore\\StocksAppProject\\StocksAppProject\\wwwroot\\Scripts\\FinnhubScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Id": "C:\\Users\\ThinkPadT480\\OneDrive - Mobility Eye\\Documents\\aspnetcore\\StocksAppProject\\StocksAppProject\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StocksAppProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StocksAppProject.props",
+      "PackagePath": "build\\StocksAppProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StocksAppProject.props",
+      "PackagePath": "buildMultiTargeting\\StocksAppProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StocksAppProject.props",
+      "PackagePath": "buildTransitive\\StocksAppProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
